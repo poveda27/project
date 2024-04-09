@@ -7,7 +7,7 @@ The main reason this app will be developed is to give the people another posting
 - The users must be over 17 years of age
 - Users must not engage in the targeted harassment of someone, or incite other people to do so.
 - Users must not promote violence.
-- Users may not post or share intimate photos or videos of someone that were produced or distributed without their consent
+- Users may not post or share photos or videos of someone that were produced or distributed without their consent
 
 ## User stories
 - As a _user_, I want to be able to create a _profile_ with my personal information and a profile picture so that I can personalize my _account_.
