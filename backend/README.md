@@ -48,12 +48,11 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
    ![reset-password](https://github.com/TomasCardenas00/prueba/assets/163557446/1dd899a4-2d4f-4bea-b456-cb5aeae39ff9)
 3.Post{Text, Images, Video, Audio, etc}
 
+   ![post](https://github.com/TomasCardenas00/prueba/assets/163557446/c0e659cb-e736-49ec-9e18-9653425109f3)
+4. Repost/Quote Post
 
-
-
-
-Repost()
-Like a post()
+   ![repost-quote](https://github.com/TomasCardenas00/prueba/assets/163557446/401c3633-3188-4934-90bd-4636f0c7329a)
+5. Like a post()
 Report post/account
 Block an account
 Modify Profile
