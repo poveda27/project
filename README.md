@@ -11,10 +11,9 @@ The main reason this app will be developed is to give the people another posting
 
 ## User stories
 - As a _user_, I want to be able to create a _profile_ with my personal information and a profile picture so that I can personalize my _account_.
-- As a _user_, I want to be able to _like_ and _comment-, on other _user_, _user_ so that I can interact with them..
+- As a _user_, I want to be able to _like_ and _comment_, on other _user_, _user_ so that I can interact with them..
 - As a _user_, I want to be able to _post_ short messages so I can share my thoughts with others.
 - As a _user_, I want to be able to _repost_ the posts of others so I can share them with my followers.
-- As a _user_, I want to be able to _follow_ other users so I can keep up with their posts.
 - As a _user_, I want to be able to _like_ posts so I can show my appreciation for them.
 - As a _user_, I want to be able to _user_ to posts so I can engage in discussions with others.
 - As a _user_, I want to be able to _mute_ _accounts_ so I can avoid seeing certain content.
@@ -28,6 +27,27 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 - Faker → This library will be used in order to help the creation of fake data.
 
 ### Entities
-
+1. User
+2. Profile
+3. Account
+4. Comment
+5. Like
+6. Post
+7. Repost
+9. Like
+10. Mute
+11. Block
+12. Save
 
 ### Processes
+1. Log in / Create Account
+2. Reset password
+3. Post()*
+4. Repost()
+5. Like a post()
+6. Report post/account
+7. Block an account
+8. Modify Profile
+9. Modify account
+10. Save posts
+11. Mute Content
