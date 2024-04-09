@@ -20,3 +20,14 @@ The main reason this app will be developed is to give the people another posting
 - As a _user_, I want to be able to _mute_ _accounts_ so I can avoid seeing certain content.
 - As a _user_, I want to be able to _block_ accounts so I can avoid interaction with certain users.
 - As a _user_, I want to be able to _save_ posts so I can easily find them again later.
+
+## Technical definitions
+### Tools
+In this project, the backend will be done in *python*, in version *3.11.0,* there will be use of some python libraries to help the project
+- Pandas → This library will help as a DataBase for the project (users information, posts made, post saved, …)
+- Faker → This library will be used in order to help the creation of fake data.
+
+### Entities
+
+
+### Processes
