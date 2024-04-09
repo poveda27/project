@@ -60,19 +60,16 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
    ![report](https://github.com/TomasCardenas00/prueba/assets/163557446/520f739d-a95e-4402-95e2-6fe1d5366d02)
 7. Block an account
    
-   ![block](https://github.com/TomasCardenas00/prueba/assets/163557446/2d9f2fdc-6396-4e70-87d6-3f8076663098)
-
-8. Modify Profile
+   ![block](https://github.com/TomasCardenas00/prueba/assets/163557446/2d9f2fdc-6396-4e70-87d6-3f8076663098)  
    
-   
-9. Modify account
+8. Modify account
    
    ![modify-account](https://github.com/TomasCardenas00/prueba/assets/163557446/053d5ee2-1912-4b8d-bfc0-06f68901d640)
-10. Save posts
+9. Save posts
 
    ![save](https://github.com/TomasCardenas00/prueba/assets/163557446/15b320a8-a6d3-4853-9972-ca040a605a71)
    
-11. Mute Content
+10. Mute Content
    
    ![mute](https://github.com/TomasCardenas00/prueba/assets/163557446/a37a1e09-7ad5-421d-8c8c-05662befc86a)
 
