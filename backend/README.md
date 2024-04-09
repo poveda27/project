@@ -53,10 +53,26 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 
    ![repost-quote](https://github.com/TomasCardenas00/prueba/assets/163557446/401c3633-3188-4934-90bd-4636f0c7329a)
 5. Like a post()
-Report post/account
-Block an account
-Modify Profile
-Modify account
-Save posts
-Mute Content
+   
+   ![like-post](https://github.com/TomasCardenas00/prueba/assets/163557446/c39cb4d1-c216-4adf-8c95-c5b828131943)
+6. Report post/account
+   
+   ![report](https://github.com/TomasCardenas00/prueba/assets/163557446/520f739d-a95e-4402-95e2-6fe1d5366d02)
+7. Block an account
+   
+   ![block](https://github.com/TomasCardenas00/prueba/assets/163557446/2d9f2fdc-6396-4e70-87d6-3f8076663098)
+
+8. Modify Profile
+   
+   
+9. Modify account
+   
+   ![modify-account](https://github.com/TomasCardenas00/prueba/assets/163557446/053d5ee2-1912-4b8d-bfc0-06f68901d640)
+10. Save posts
+
+   ![save](https://github.com/TomasCardenas00/prueba/assets/163557446/15b320a8-a6d3-4853-9972-ca040a605a71)
+11. Mute Content
+   
+   ![mute](https://github.com/TomasCardenas00/prueba/assets/163557446/a37a1e09-7ad5-421d-8c8c-05662befc86a)
+
 
