@@ -71,7 +71,6 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
 10. Save posts
 
    ![save](https://github.com/TomasCardenas00/prueba/assets/163557446/15b320a8-a6d3-4853-9972-ca040a605a71)
-   
 11. Mute Content
    
    ![mute](https://github.com/TomasCardenas00/prueba/assets/163557446/a37a1e09-7ad5-421d-8c8c-05662befc86a)
