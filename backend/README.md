@@ -22,6 +22,7 @@ The main reason this app will be developed is to give the people another posting
 
 ## Technical definitions
 ### Tools
+
 In this project, the backend will be done in *python*, in version *3.11.0,* there will be use of some python libraries to help the project
 - Pandas → This library will help as a DataBase for the project (users information, posts made, post saved, …)
 - Faker → This library will be used in order to help the creation of fake data.
@@ -73,4 +74,7 @@ In this project, the backend will be done in *python*, in version *3.11.0,* ther
    
    ![mute](https://github.com/TomasCardenas00/prueba/assets/163557446/a37a1e09-7ad5-421d-8c8c-05662befc86a)
 
+### class diagram
+represents the relationships that the program
+![digarER-Página-1 drawio](https://github.com/TomasCardenas00/project/assets/116394608/9eba42eb-0bd1-4726-a004-bf77bd53bd8c)
 
